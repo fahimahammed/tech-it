@@ -1314,6 +1314,11 @@
     schema-utils "^3.0.0"
     source-map "^0.7.3"
 
+"@ramonak/react-progress-bar@^4.2.0":
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/@ramonak/react-progress-bar/-/react-progress-bar-4.2.0.tgz#010a31a740cdb906556cebc9d8534f6e6a571587"
+  integrity sha512-fMNwhvdqviup9QXv+3+SJwwh8Hdh4wqQLBtaruk2SHL7sSvchYg0iEsOqKB4U3vfQEwAtMqsorfxsgO5AnPmiA==
+
 "@rollup/plugin-babel@^5.2.0":
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-babel/-/plugin-babel-5.3.0.tgz#9cb1c5146ddd6a4968ad96f209c50c62f92f9879"
