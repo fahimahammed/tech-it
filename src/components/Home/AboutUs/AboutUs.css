@@ -1,0 +1,16 @@
+.about-image{
+    position: relative;
+    top: -8%;
+    border-radius: 10px;
+}
+
+.about-heading-text{
+    font-size: 3em;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+@media screen and (max-width: 601px) {
+    .about-heading-text{
+      font-size: 1.3em;
+    }
+}

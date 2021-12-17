@@ -1,0 +1,25 @@
+.head-container{
+    background-image: url('../../images/bg-head.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.header-text{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 15%;
+}
+
+.header-text-style{
+    font-size: 4em;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+@media screen and (max-width: 601px) {
+    .header-text-style{
+      font-size: 2em;
+    }
+  }
