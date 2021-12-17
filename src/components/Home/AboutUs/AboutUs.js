@@ -1,7 +1,7 @@
 import React from 'react';
 import './AboutUs.css';
 import aboutPhoto from '../../images/about-photo.PNG';
-import ProgressBar from "@ramonak/react-progress-bar";
+
 
 const AboutUs = () => {
     return (
@@ -18,7 +18,7 @@ const AboutUs = () => {
                     <img className="img-fluid about-image" src={aboutPhoto} alt="About US"/>
                 </div>
             </div>
-            <ProgressBar completed={70}  bgColor="green" height="10px"/>
+            
         </div>
     );
 };
