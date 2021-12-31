@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../../Shared/Footer/Footer';
 import AboutUs from '../AboutUs/AboutUs';
 import ChooseUs from '../ChooseUs/ChooseUs';
 import Header from '../Header/Header';
@@ -19,6 +20,7 @@ const Home = () => {
             <Services></Services>
             <Statistic></Statistic>
             <ChooseUs></ChooseUs>
+            <Footer></Footer>
         </div>
     );
 };
